@@ -28,3 +28,10 @@
 .manifold-text-section .figcap {
     font-size: 90%;
 }
+
+.manifold-text-section .rf {
+    margin-left: 3em;
+    text-indent: -3em;
+    text-align: left;
+    margin-bottom: 20px;
+}
