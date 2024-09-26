@@ -1,13 +1,4 @@
 /*Heads*/
-.manifold-text-section .ch {
-    font-variant-caps: normal;
-    margin-top: 1.25em;
-    margin-bottom: 0;
-    text-indent: 0;
-    text-align: left;
-    font-size: 110%;
-}
-
 .manifold-text-section p {
     text-indent: 0em;
 }
@@ -21,10 +12,73 @@
     font-size: 100%;
 }
 
-.manifold-text-section figure {
-    width: 60%;
+.manifold-text-section .ah {
+    font-weight: bold;
+    font-size: 125%;
+    margin-top: 1.25em;
+    margin-right: 20%;
+    margin-bottom: 0;
+    text-indent: 0;
+    text-align: center;
+    text-transform: uppercase;
 }
 
-.manifold-text-section .figcap {
-    font-size: 90%;
+.manifold-text-section .bh {
+    font-size: 125%;
+    font-weight: bold;
+    font-style: normal;
+    margin-top: 1.25em;
+    margin-bottom: 0%;
+    text-indent: 0;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+.manifold-text-section .ch {
+    margin-top: 1.25em;
+    margin-bottom: 0;
+    text-indent: 0;
+    text-align: left;
+    font-size: 120%;
+    text-transform: capitalize;
+    font-variant-caps: titling-caps;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.text-section h4 {
+    font-weight: bold;
+    text-transform: normal;
+    text-align: left;
+}
+
+h5 {
+    font-weight: normal;
+    font-style: italic;
+    text-transform: normal;
+    text-align: left;
+    font-size: 1em;
+}
+
+.manifold-text-section .tabletitle {
+    font-weight: bold;
+    font-size: 1em;
+    text-align: center;
+}
+
+.text-section img {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.manifold-text-section figure {
+    width: 50%;
+}
+
+.manifold-text-section .rf {
+    margin-left: 3em;
+    text-indent: -3em;
+    text-align: left;
+    margin-bottom: 20px;
 }
