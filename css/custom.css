@@ -14,9 +14,9 @@
 
 .manifold-text-section .ah {
     font-weight: bold;
-    font-size: 125%;
+    font-size: 150%;
     margin-top: 1.25em;
-    margin-right: 20%;
+    margin-right: 0;
     margin-bottom: 0;
     text-indent: 0;
     text-align: center;
@@ -24,7 +24,7 @@
 }
 
 .manifold-text-section .bh {
-    font-size: 125%;
+    font-size: 150%;
     font-weight: bold;
     font-style: normal;
     margin-top: 1.25em;
@@ -39,7 +39,7 @@
     margin-bottom: 0;
     text-indent: 0;
     text-align: left;
-    font-size: 120%;
+    font-size: 150%;
     text-transform: capitalize;
     font-variant-caps: titling-caps;
     font-weight: bold;
@@ -50,6 +50,7 @@
     font-weight: bold;
     text-transform: normal;
     text-align: left;
+    font-size: 1.2em;
 }
 
 h5 {
@@ -57,7 +58,7 @@ h5 {
     font-style: italic;
     text-transform: normal;
     text-align: left;
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 .manifold-text-section .tabletitle {
@@ -67,13 +68,13 @@ h5 {
 }
 
 .text-section img {
-    width: 50%;
+    width: 75%;
     margin-right: auto;
     margin-left: auto;
 }
 
 .manifold-text-section figure {
-    width: 50%;
+    width: 75%;
 }
 
 .manifold-text-section .rf {
@@ -81,4 +82,20 @@ h5 {
     text-indent: -3em;
     text-align: left;
     margin-bottom: 20px;
+}
+
+.manifold-text-section .bqs {
+    margin-top: 1em;
+    margin-right: 2em;
+    margin-left: 0;
+    text-indent: 0em;
+    text-align: left;
+}
+
+.manifold-text-section .bqs + .bqs {
+    margin-top: 1em;
+    margin-right: 2em;
+    margin-left: 0;
+    text-indent: 0em;
+    text-align: left;
 }
