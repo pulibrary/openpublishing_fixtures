@@ -12,9 +12,12 @@
     font-size: 100%;
 }
 
+.textTitle {
+    font-size: 2.5em;
+}
+
 .manifold-text-section .ah {
     font-weight: bold;
-    font-size: 150%;
     margin-top: 1.25em;
     margin-right: 0;
     margin-bottom: 0;
@@ -24,7 +27,6 @@
 }
 
 .manifold-text-section .bh {
-    font-size: 150%;
     font-weight: bold;
     font-style: normal;
     margin-top: 1.25em;
@@ -39,26 +41,11 @@
     margin-bottom: 0;
     text-indent: 0;
     text-align: left;
-    font-size: 150%;
+    font-size: 1.6em;
     text-transform: capitalize;
     font-variant-caps: titling-caps;
     font-weight: bold;
     font-style: italic;
-}
-
-.text-section h4 {
-    font-weight: bold;
-    text-transform: normal;
-    text-align: left;
-    font-size: 1.2em;
-}
-
-h5 {
-    font-weight: normal;
-    font-style: italic;
-    text-transform: normal;
-    text-align: left;
-    font-size: 1.2em;
 }
 
 .manifold-text-section .tabletitle {
@@ -86,16 +73,42 @@ h5 {
 
 .manifold-text-section .bqs {
     margin-top: 1em;
-    margin-right: 2em;
-    margin-left: 0;
+    margin-right: 1.4em;
+    margin-left: 2em;
     text-indent: 0em;
     text-align: left;
 }
 
 .manifold-text-section .bqs + .bqs {
     margin-top: 1em;
-    margin-right: 2em;
-    margin-left: 0;
+    margin-right: 1.4em;
+    margin-left: 2em;
     text-indent: 0em;
     text-align: left;
+}
+
+h1 {
+    font-size: 2.0em;
+}
+
+h2 {
+    font-size: 1.8em;
+}
+
+h3 {
+    font-size: 1.6em;
+}
+
+.manifold-text-section .ch {
+    font-size: 1.4em;
+}
+
+h4 {
+    font-size: 1.2em;
+}
+
+h5 {
+    font-size: 1.2em;
+    font-weight: normal;
+    font-style: italic;
 }
