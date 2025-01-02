@@ -17,13 +17,13 @@ You will need either a direct link to the text that you want to change, or you w
 
 1. To preview the current way that the text is displaying, click on the "View" link directly under the text title, see screenshot below:
 
-    ![](images/manifold_view.png)
+    ![](../images/manifold_view.png)
 1. In Admin mode, click the "Styles" link in the left sidebar navigation, then click "Add New Stylesheet."
 1. Name the stylesheet by populating the "Name" field.
 1. Add the CSS that you want to apply to this text in the "Source Styles" field. 
 1. Select the section(s) of the text to which you want to apply the CSS in the "Apply to these Text Sections" field, see example screenshot below:
 
-    ![](images/manifold_sections.png)
+    ![](../images/manifold_sections.png)
 1. Click "Save stylesheet."
 1.  View the text from the "View" link under the text's title to see your CSS applied.
 
