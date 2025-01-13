@@ -4,6 +4,9 @@ This repository stores local documentation and fixtures for Open Publishing.
 
 Open Publishing is a Manifold instance, hosted and maintained by the vendor SoftServ.
 
+## Table of Contents
+* [Site Settings](themeing/settings.md)
+* [Making changes to CSS for Open Publishing](theming/style_changes.md)
 ## Resources
 
 * [Open Publishing at Princeton](https://openpublishing.princeton.edu/)
