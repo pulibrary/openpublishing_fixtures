@@ -6,7 +6,7 @@ You will need either a direct link to the text that you want to change, or you w
 
 ## Enter Admin Mode and Select the Text
 
-1. Navigate to [https://openpublishing.princeton.edu/][https://openpublishing.princeton.edu/] and log in with CAS. Note that you will need to close the "Log In" view by clicking on the "X" at the top right corner of the interface once you log in.
+1. Navigate to [Open Publishing](https://openpublishing.princeton.edu/) and log in with CAS. Note that you will need to close the "Log In" view by clicking on the "X" at the top right corner of the interface once you log in.
 1. Click on the "Enter Admin Mode" button in the top right corner of the screen.  If you do not see this button, contact our Open Publishing Product Owner for assistance.
 1. Navigate to the text that you want to change.  You can do this by clicking on the "Projects" button in the top navigation menu and selecting "All Projects" from the dropdown.
 1. Select the parent project of the text you want to change.
