@@ -55,13 +55,14 @@
 }
 
 .text-section img {
-    width: 75%;
+    width: 100%;
     margin-right: auto;
     margin-left: auto;
 }
 
 .manifold-text-section figure {
-    width: 75%;
+    width: 100%;
+    max-width: 30em;
 }
 
 .manifold-text-section .rf {
@@ -111,4 +112,9 @@ h5 {
     font-size: 1.2em;
     font-weight: normal;
     font-style: italic;
+}
+
+/* fixes #19 */
+li.rf {
+    list-style-type: none;
 }
